@@ -6,5 +6,4 @@
 ## Abaixo Algumas imagens da aplicação
 
 ![frame1](https://i.imgur.com/NXWFfDF.png)
-![frame2](https://i.imgur.com/BvbDgik.png)
 ![frame3](https://i.imgur.com/pA5FosG.png)
